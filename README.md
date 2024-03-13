@@ -9,3 +9,4 @@ New features are added to this repo.
 Added new feature 1
 
 Added new feature 2
+Added new feature 3
